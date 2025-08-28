@@ -1,5 +1,5 @@
 Sometimes things are just difficult. Here, I am trying to fix a problem when flashing a watch with the InkWatchy firmware on a Mac.
-Yyou cannot establish a connection from a Docker container to a USB serial programmer by restrictions from Apple. The script solves this problem.
+You cannot establish a connection from a Docker container to a USB serial programmer by restrictions from Apple. The script solves this problem.
 
 After compiling the InkWatchy firmware in your container, the necessary components are copied from the container using “docker cp” and copied to the watch via USB. 
 A rudimentary control via dialog boxes is also built in. In theory, all supported watches should be flashed with this tool. 
