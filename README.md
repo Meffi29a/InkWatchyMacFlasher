@@ -6,7 +6,9 @@ A rudimentary control via dialog boxes is also built in. In theory, all supporte
 So far, it has only been tested on an InkWatchy 2.
 
 -- you need to install brew on your mac if not already done https://brew.sh/index_de
+
 -- you need to install esptool on your mac with "pip install esptool" or "brew install esptool"
+
 -- you need to open the container. If you opened the container with VSCode, you are fine.
 
 
